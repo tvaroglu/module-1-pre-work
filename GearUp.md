@@ -1,0 +1,13 @@
+## Gear Up
+
+### Implicit Biases
+- I really enjoyed watching Google's video about unconscious biases. It was a unique perspective on natural human tendencies, and our imperative to step back from the objectively incorrect biases that we all hold, in which we are convinced that we can accurately judge and assess other people in totality.
+- From a user experience perspective, we "limit" ourselves, and "aren't fully innovating", as it was said in the video, if we don't release the unconscious and conscious biases that we hold. Building software should be catered to the user, so it would be a limitation to my future career if I am unable to understand and avoid biases when evaluating and building products.
+- I will admit (or rather, it would be unrealistic not to admit) that I hold biases at times. It is very easy to "judge a book by its cover", and I find myself doing so, even at an unconscious level and then later realizing it when better acquainted with a person or situation.
+- To foster a true team and community understanding and sense of unity, I will be approaching my Turing experience eyes wide open, to ensure I am leaving my biases at the door; and if I find myself falling into them unconsciously, I will be actively working to evaluate and eliminate them through self-reflection, and direct communication for a better sense of understanding and perspective.
+
+### Intersectionality
+- I am aware of my identity as a white male. While my father is Turkish, I have grown up in the United States, and feel that I have not often been recognized or discriminated against for my identity, even during the post-911 paranoia and distrust of Muslims.
+- Although this cultural identity is not often recognized (usually only when my last name is attempted to be spoken aloud), it is something that I am proud of, and am always happy to clarify when asked. I greatly value other cultures and perspectives, and appreciate the curiosity of others when they inquire about mine.
+- Just as I will be approaching my Turing experience with a critical eye for avoiding and managing my implicit biases, I will be curious and eager to learn about the various identities and diverse backgrounds that my cohort-mates will be bringing to the program, and to the group projects that we'll be working on together. I care deeply for others, and look forward to the opportunity to learn, grow, and advocate for my cohort-mates, as a community should do for one another.
+- I will bring my curiosity, empathy, and deep sense of care and understanding for others to my cohort and team-mates, and will always be open to feedback as to how to achieve an even greater sense of care and understanding for each other.
