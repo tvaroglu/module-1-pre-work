@@ -47,9 +47,8 @@ Week 1: [Homeroom Discussion Prompts](https://careerdev.turing.edu/student_discu
 - [ ] (partially complete)
 - [ ] (not started)
 
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here:
 
-Week 2: [Homeroom Discussion Prompts](hhttps://careerdev.turing.edu/student_discussion_groups/mod1_homeroom_discussion_prompts#week-2)
+Week 2: [Homeroom Discussion Prompts](https://careerdev.turing.edu/student_discussion_groups/mod1_homeroom_discussion_prompts#week-2)
 
 [Link here to your gist]
 - [ ] (completed)
@@ -59,8 +58,8 @@ Week 2: [Homeroom Discussion Prompts](hhttps://careerdev.turing.edu/student_disc
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here:
 
 Week 3: [Homeroom Discussion Prompts](https://careerdev.turing.edu/student_discussion_groups/mod1_homeroom_discussion_prompts#week-3)
-[
-Link here to your gist]
+
+[Link here to your gist]
 - [ ] (completed)
 - [ ] (partially complete)
 - [x] (not started)
