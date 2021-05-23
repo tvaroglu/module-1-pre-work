@@ -51,8 +51,8 @@ Week 1: [Homeroom Discussion Prompts](https://careerdev.turing.edu/student_discu
 Week 2: [Homeroom Discussion Prompts](https://careerdev.turing.edu/student_discussion_groups/mod1_homeroom_discussion_prompts#week-2)
 
 [Week 2 Prompts](https://github.com/tvaroglu/module-1-pre-work/blob/main/professional-development/mod1_weekly-prompts/week2.md)
-- [x] (completed)
-- [ ] (partially complete)
+- [ ] (completed)
+- [x] (partially complete)
 - [ ] (not started)
 
 
