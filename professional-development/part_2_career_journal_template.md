@@ -74,12 +74,12 @@ Week 4: [Homeroom Discussion Prompts](https://careerdev.turing.edu/student_discu
 
 Week 5: [Homeroom Discussion Prompts](https://careerdev.turing.edu/student_discussion_groups/mod1_homeroom_discussion_prompts#week-5)
 
-[Link here to your gist]
+[Week 5 Prompts](https://github.com/tvaroglu/module-1-pre-work/blob/main/professional-development/mod1_weekly-prompts/week5.md)
 - [ ] (completed)
-- [ ] (partially complete)
-- [x] (not started)
+- [x] (partially complete)
+- [ ] (not started)
 
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here:
+
 
 ### Mod 2
 
